@@ -1,0 +1,8 @@
+#01: /play [shuffle] <playlist>
+	plays playlist with our without shuffle.
+	when playing a song continue playlist when finished.
+
+
+
+
+
