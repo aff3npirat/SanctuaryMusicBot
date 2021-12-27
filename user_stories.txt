@@ -1,6 +1,7 @@
-#01: /play [shuffle] <playlist>
-	plays playlist with our without shuffle.
-	when playing a song continue playlist when finished.
+#01:
+	A command to play a playlist. There should be an option to play the playlist with shuffle.
+	When queuing a song, playlist should continue after song is finished.
+	For example the command could look like: '/play [shuffle] <playlist>'.
 
 
 
